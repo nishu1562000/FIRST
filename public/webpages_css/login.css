@@ -1,0 +1,46 @@
+h1{
+  text-align: center;
+}
+/* /////////////////////////////////////////////////////////////////////////////// */
+img{
+  position: relative;
+}
+.login-div {
+  position: absolute;
+  width: 450px;
+  height: 650px;
+  align-items: center;
+  border-radius: 30px;
+  border-color: #3F4E4F;
+  background-color: #E4DCCF;
+  margin-left: 670px;
+  margin-top: -800px;
+}
+.logo-image{
+  margin-left: 140px;
+}
+.login-div {
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+.login{
+  position: absolute;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+.btn1{
+    border-radius: 20px;
+    font-size: 20px;
+    width: 110px;
+    height: 50px;
+    margin-left: 65px;
+  margin-top: 30px;
+}
+.btn2{
+  border-radius: 20px;
+  font-size: 20px;
+  width: 110px;
+  height: 50px;
+  margin-right: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
